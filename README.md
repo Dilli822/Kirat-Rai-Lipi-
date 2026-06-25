@@ -83,9 +83,11 @@ Latency and throughput are measured on CPU (Kaggle environment) with input size 
 | EfficientViT-M0      |           2.35 | 24.32 ± 0.28           | 41.13 ± 0.48           |
 | ViT-Small DINOv3     |          22.05 | 96.19 ± 0.43           | 10.40 ± 0.05           |
 
-## Usage
+## Supplementary Materials
 
 Google Colab Notebook: [www.kaggle.com/code/dillihangrai078/kirat-rai-lipi-recognition-computer-vision-ai](https://www.kaggle.com/code/dillihangrai078/kirat-rai-lipi-recognition-computer-vision-ai)
+
+Overleaf LaTeX: [www.overleaf.com/read/bqmhtvdkbcmx#570a8b](https://www.overleaf.com/read/bqmhtvdkbcmx#570a8b)
 
 ---
 
